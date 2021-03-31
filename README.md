@@ -1,4 +1,4 @@
-# Overview
+# Octopus Lite for ForgeRock
 
 **Octopus Lite™** provides ForgeRock users with the fastest and safest
 way to close the desktop security gap. The first desktop MFA solution to
