@@ -47,6 +47,14 @@ Before beginning installation, verify that:
 
   - You have obtained the Octopus Lite for Windows MSI package
 
+# Creating the *authentication* Tree on OpenAM
+
+In order to enable Octopus Lite integration, you need to create a new tree to support the MFA authentication. This tree allows Octopus Lite to work directly with the ForgeRock environment.
+
+An example of an *authentication* tree is shown below. 
+
+![](.//media/FR_AuthenticationTree.png)
+
 # MSI Deployment of Octopus Lite
 
 Silent installation allows administrators to push the installation to
