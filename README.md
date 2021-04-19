@@ -39,7 +39,9 @@ contact <support@doubleoctopus.com> or <frank.gasparovic@forgerock.com>
 
 Before beginning installation, verify that:
 
-  - Workstations have **Windows 10** and support **TPM version 2.0**
+  - Workstations are **domain-joined Windows 10** devices
+
+  - Workstations support **TPM version 2.0**
 
   - The ForgeRock IAM environment is connected to Active Directory
 
