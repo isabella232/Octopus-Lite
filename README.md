@@ -15,7 +15,7 @@ dramatically boost their domain security, improve user experience, and
 take the first step toward becoming fully passwordless in the future.
 
 To sign up for a [14-day free trial of **Octopus Lite™**, click
-here](https://go.doubleoctopus.com/octopus-lite-free-trial).
+here](https://go.doubleoctopus.com/octopus-lite-free-trial-forgerock).
 
 ![](.//media/image1.png)
 
