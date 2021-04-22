@@ -24,7 +24,7 @@ here](https://go.doubleoctopus.com/octopus-lite-free-trial).
 The high-level workflow for authentication to Windows / Mac using
 **Octopus Lite™** is shown in the diagram below.
 
-![Diagram Description automatically generated](.//media/image2.png)
+![Diagram Description automatically generated](.//media/AuthenticationFlow_New.png)
 
 ## Getting Started
 
@@ -80,7 +80,7 @@ To perform silent installation:
 The figure below shows the Windows Login screen following successful
 installation.
 
-![](.//media/image4.png)
+![](.//media/LoginScreen_New.png)
 
 [Click here to watch the demo
 video](https://vimeo.com/523806230/2aa0b92ca5) demonstrating the login
